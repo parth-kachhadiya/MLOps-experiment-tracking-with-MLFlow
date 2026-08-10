@@ -21,6 +21,14 @@ NOTE:
           (a). AWS is obviously constly and slightly difficult for configuration
           (b). Dagshub will give this setup without any configurations, just connect github repo with it.
 
+    2. Model registry
+
+       • steps / stages
+          (a). Development phase ( Model Development process )
+          (b). Stagging phase    ( Model is under local testing phase by team )
+          (c). Production phase  ( Model is on production server )
+          (d). Retirement phase  ( Model is no longer used on production )
+               → Not deleted, stored in archieve.
 
 [1]. Install necessary libraries
 
